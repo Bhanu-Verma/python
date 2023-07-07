@@ -1,0 +1,21 @@
+Name	Type 1	Type 2	Total	HP	Attack	Defense	Atk	Def	Speed	Stage	Legendary
+0	Bulbasaur	Grass	Poison	318	45	49	49	65	65	45	1	False
+1	Ivysaur	Grass	Poison	405	60	62	63	80	80	60	2	False
+2	Venusaur	Grass	Poison	525	80	82	83	100	100	80	3	False
+3	Charmander	Fire	NaN	309	39	52	43	60	50	65	1	False
+4	Charmeleon	Fire	NaN	405	58	64	58	80	65	80	2	False
+5	Charizard	Fire	Flying	534	78	84	78	109	85	100	3	False
+6	Squirtle	Water	NaN	314	44	48	65	50	64	43	1	False
+7	Wartortle	Water	NaN	405	59	63	80	65	80	58	2	False
+8	Blastoise	Water	NaN	530	79	83	100	85	105	78	3	False
+9	Caterpie	Bug	NaN	195	45	30	35	20	20	45	1	False
+10	Metapod	Bug	NaN	205	50	20	55	25	25	30	2	False
+11	Butterfree	Bug	Flying	395	60	45	50	90	80	70	3	False
+12	Weedle	Bug	Poison	195	40	35	30	20	20	50	1	False
+13	Kakuna	Bug	Poison	205	45	25	50	25	25	35	2	False
+14	Beedrill	Bug	Poison	395	65	90	40	45	80	75	3	False
+15	Pidgey	Normal	Flying	251	40	45	40	35	35	56	1	False
+16	Pidgeotto	Normal	Flying	349	63	60	55	50	50	71	2	False
+17	Pidgeot	Normal	Flying	479	83	80	75	70	70	101	3	False
+18	Rattata	Normal	NaN	253	30	56	35	25	35	72	1	False
+19	Raticate	Normal	NaN	413	55	81	60	50	70	97	2	False
